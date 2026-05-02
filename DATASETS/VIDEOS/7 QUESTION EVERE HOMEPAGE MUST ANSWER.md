@@ -1,0 +1,9 @@
+# 7 QUESTION EVERE HOMEPAGE MUST ANSWER
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadEdf9rde2GA7hpmxBTG'}]
+
+---
+**Transcripción:**
+If your website homepage can't answer these seven questions, you've already lost your customer. Here are the seven questions every website homepage needs to answer. This is the same framework we use on our own branding agency website, which is quietly driven over $400,000 last year in branding projects alone through organic social media content, and placed us in Clutches Top 5 branding and design agencies in Toronto. First question, what do you do? At Raven, we create premium brands that command attention. Second question, who is it for? We work directly with founders who are visionaries. Third question, why does it matter? Because they want to attract high-paying customers and not compete on price. Fourth question, why should I trust you? This is where we show logos of prominent clients we worked with, as well as real transformation and results we've achieved for our clients. Fifth question, what are your services? Brand strategy, visual identity, website design, marketing materials. Sixth question, show me proof. This is where we show the portfolio work we've done. Branding for architects, snacks, fashion, jewelry, real estate. Different industries, same taste for clarity and beauty, followed by testimonials from founders who actually enjoyed the branding process. The last question you need to answer is, tell me what to do next. This is where we walk you through our process. And when you're ready, book a call, or fill out our contact form and we'll get in touch. These are the seven questions you need to answer on your homepage to take your visitors from looking to booking your services. Follow for more premium branding advice.

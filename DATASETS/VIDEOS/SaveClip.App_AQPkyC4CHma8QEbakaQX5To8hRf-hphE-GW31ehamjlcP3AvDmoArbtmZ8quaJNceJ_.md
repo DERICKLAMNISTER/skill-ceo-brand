@@ -1,0 +1,9 @@
+# SaveClip.App_AQPkyC4CHma8QEbakaQX5To8hRf-hphE-GW31ehamjlcP3AvDmoArbtmZ8quaJNceJ_vniuHFdfFbEkTyFJKWyQqz_w1SQM9rl40yXs
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadD4D2gpqn5LMJQ5XRKZ'}]
+
+---
+**Transcripción:**
+Here are the best and worst brand refreshes we've seen lately. Let's start with the best. Domino's dropped their first rebrand in 13 years, and it's fire. The dots are popping, the colors are bolder, and that black and gold premium box, chef's kiss. Plus they teamed up with Shabuzy for a new jingle. Domino's. You literally can't say Domino's without saying, mmm, genius. Next is Laze. Laze said, let's remind people we use real potatoes. Soft to curves, vibrant color palettes, works across different languages. I like the subtle harvest table texture in the background, as that farm to table look, and the flat-lay ingredients, pretty good art direction. Even Microsoft Office got a makeover, trading sharp edges for smooth curves and zingy gradients. First refreshes 2018. Clean, simple, better. Now let's look at the worst. X games threw away their iconic red X at globe for this. A generic black angular X doesn't seem to hit the mark. Personally, I like Alan Peters improvement of it, which brings back the red, centers the M in the type, and makes sure there's no negative space in the A. Good job Alan. But look how far we've come from the 1995 logo. And Texas Tech. They flattened their double T logo, removed all the dimension, and the logo falls flat. Other elements got a glow up, especially the horseman, but the brand is a whole, meh. So what do you think? Are these refreshes fresh or a toll flop? Drop your take in the comments below. Follow for more premium branding advice.

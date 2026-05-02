@@ -1,0 +1,9 @@
+# 3 PERFECT REBRAND
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadEfa2b2grndoQw4KbZ8'}]
+
+---
+**Transcripción:**
+There are three rebrands that are done right. Let's start with Starburst, the two-week candy brand. You'll notice that in their new packaging, they've gone with a more blockier font that anchors the system to their candy square shape. Nothing dramatic, but everything's a lot sharper. Fix the foundation and everything else gets easier. So the lesson here is that you don't always need a reinvention. Sometimes you just need a little refinement. Next is Lazy Boy. I love this rebrand because their new logo is inspired from the original 1927 logo. Even the shape of the typography resembles their product. For decades, the Lazy Boy recliner was considered your grandfather's chair, but also because they were also the most comfortable. So they leaned into that and reframed it, and positioned themselves as your A-place. Using a softer color palette and more approachable fonts, they evolved their brand without erasing their heritage. You keep the equity, you update the meaning. The last one is Gyro, a performance brand built for serious cyclists, and instead of getting louder, they got sharper. The new word mark subtly shifts from thick to thin, creating a sense of speed and forward motion. The typography system feels technical and engineered, and the photography focuses on real athletes in motion. Everything about the identity reinforces performance and precision. So here's what we learned. Evolution isn't erasure. The brands that won didn't try to please everyone. They chose who they were for, they aligned with culture, and they moved with conviction. The brands that failed, like Cracker Barrel, tried to modernize and appeal to everyone, which ended up appealing to no one. Follow for more premium branding advice.

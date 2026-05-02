@@ -1,0 +1,9 @@
+# PACKING DESING
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadFUiYs1wtpSpJbEFAcg'}]
+
+---
+**Transcripción:**
+Here are my top 10 packaged design picks for 2025. At number 10 is Strive Soda, a sleek two-tone design that lets the raw aluminum shine through. This electrolyte soda has bold typography and feels clean, minimal, and refreshingly modern. At number 9 is KS Chips, bold illustrated characters on saturated backgrounds. It's both a snack bag and a cultural postcard. At number 8 is Case Fruit T. Dreamy Fruit Photography paired with a stark black typography. Lush yet restrained. At number 7 is PSOAP, rich jewel-tone cartons with botanical art, traditional, radiant, and beauty-ile ready. At number 6 is Coaqua, vertical typography, bold pops of color, and quirky on-packed storytelling, coconut water made cool. At number 5 is Motiv matcha, minimalist tins in vivid green, elevated like a beauty supplement, bridging wellness and design. At number 4 is Kima DeOdrant, a fellow Canadian brand, soft neutrals with refillable system, modern sustainability that's built for an online subscription-based business. At number 3 is Heroclea Olive Oil, metallic tins with clean, serif typography and storytelling illustrations. It rejects the traditional wine bottle look for a boutique apothecary appeal. At number 2 is Aionic Revive, another electrolyte hydration drink with smooth gradient washes across slim cans, spa-like, balanced, and glowing with energy. At number 1 my all-time favorite is Clue Coffee, which feels like a perfume bottle. Matt Black bottle, wavy light typography, luxe, and mysterious, feels as at home on a fragrance shelf as in your kitchen. Follow for more premium branding advice.

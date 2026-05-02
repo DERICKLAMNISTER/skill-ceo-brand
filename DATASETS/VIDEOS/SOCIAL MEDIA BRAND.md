@@ -1,0 +1,9 @@
+# SOCIAL MEDIA BRAND
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadCxbW8GoSB79LVBYyZK'}]
+
+---
+**Transcripción:**
+How to grow a premium brand on social media. We're gonna check out four premium brands that the social media content really well. There are two types of content you can post, value content or entertainment content. Value content is educational, informative and insightful. Moosy Watch does value content really well. Their reels captivate with a visual hook than educate on their premium laundry detergents unique benefits. So this is my favorite Cologne-centred laundry detergent and it makes my clothes smell so good. I always tired of all the boring sense in toxic chemicals. So I created a detergent with non-toxic cleaners and unique long-lasting sense based on the top Cologne's candles. Another example is fashion designer Itai, who explains his design philosophy and inspiration while showcasing his beautiful clothes and the detail and craftmanship that goes into it. So this is the Shurpa jacket that I designed and I was inspired by fine china porcelain. I've always wanted to design items inspired by my Chinese roots. Entertainment content tells a visual story. It's engaging, captivating and amusing. Le Labo fragrance nails the moody visual aesthetic. The way they showcase their products makes you want to touch and feel them with your own hands. No words, just ASMR. Mespoke, the Korean leather wallet brand uses cinematic shots to show their crafting process and the quality of the final product. The first item is the The first item is the The first item is the The first item is the Remember, people don't share good content. They share content that makes them look good. Always ask yourself, is my content valuable or entertaining enough to be share worthy? Follow for more premium branding advice.

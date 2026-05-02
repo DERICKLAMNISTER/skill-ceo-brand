@@ -1,0 +1,9 @@
+# LUXURY BRAND ONLINE
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadDq5ifDYeRAjvREPrXy'}]
+
+---
+**Transcripción:**
+How should a luxury brand behave online? Let's take a look at Esop, the luxury cosmetic brand that's worth $2.5 billion and known for its minimalistic aesthetic and its products and skincare, hair care, and fragrances. The Esop brand is all about crafting an intimate personalized experience. The mood lighting in their stores and the use of natural botanical ingredients and scents really dials up the luxurious ritual of skincare. So it comes with no surprise that they offer live video consultations on their website to help you find the perfect product fit, getting tailored advice, and being guided through a curated selection. This isn't just a transaction, it's about building a highly personalized relationship with the customer. Also, notice how each Esop store is unique, drawing on the cultural cues of the area it's in to inspire its design, from Milan, to London, to Paris, to New York, to Hong Kong. No two stores are the same, and that's intentional. They even have a website called the taxonomy of design that is dedicated to highlighting the materials and fixtures they use in each of their stores, a gold mine for luxury design enthusiasts. On social media, Esop nails it using short-form video content that not only showcases their products, but also how to use it, once again, playing to the luxurious ritual of skincare. Above all else, it's the storytelling that sets luxury brands apart, the initiation, as well as the mystique surroundings of the products is just as vital as the product itself. As a luxury brand, you are catering to the 1%, those who care about aesthetics, product quality, and high value creation. Follow it for more premium branding advice.

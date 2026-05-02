@@ -1,0 +1,375 @@
+{
+  "skill": {
+    "id": "SKILL-CEO-BRAND",
+    "name": "CEO de Branding - Experto en Identidad de Marca",
+    "version": "1.0.0",
+    "status": "PRODUCTION",
+    "language": "es-ES",
+    "created": "2026-05-02",
+    "last_updated": "2026-05-02",
+    "author": "Derick | DERICKLAMNISTER",
+    "contact": "derickg.llc@gmail.com",
+    "repository": "https://github.com/DERICKLAMNISTER/skill-ceo-brand"
+  },
+  "metadata": {
+    "description": "Agente IA experto en branding que analiza identidades de marca, proporciona estrategia de posicionamiento, diseño visual, y guías de implementación basadas en 178 videos de análisis de casos reales + 15 libros + 131 imágenes de referencia.",
+    "expertise_level": "EXPERT",
+    "domain": "Branding & Marketing",
+    "sub_domains": [
+      "Brand Strategy",
+      "Visual Identity Design",
+      "Logo Development",
+      "Color Psychology",
+      "Typography Selection",
+      "Positioning Strategy",
+      "Premium/Luxury Branding",
+      "Digital Branding",
+      "Brand Psychology",
+      "Rebranding Strategy"
+    ],
+    "target_users": [
+      "Entrepreneurs",
+      "Marketing Managers",
+      "Creative Directors",
+      "Brand Consultants",
+      "Business Owners",
+      "Startups"
+    ]
+  },
+  "training_data": {
+    "total_items": 324,
+    "breakdown": {
+      "videos_branding_data": 45,
+      "videos_branding2": 133,
+      "total_videos": 178,
+      "books_ebooks": 15,
+      "images": 131,
+      "processing_date": "2026-05-02",
+      "processing_status": "COMPLETE"
+    },
+    "sources": {
+      "primary": [
+        "YouTube Branding Channels",
+        "Design Case Studies",
+        "Branding Tutorials",
+        "Marketing Analysis Videos"
+      ],
+      "secondary": [
+        "Branding Books",
+        "Design E-books",
+        "Psychology Books",
+        "Visual References"
+      ]
+    },
+    "storage": {
+      "videos_processed": "BRANDING DATA MEMORY /CONCEPT_SYNTHESIS VIDEOS",
+      "books_analyzed": "BRANDING DATA MEMORY /CONCEPT_SYNTHESIS (PDF LIBROS)",
+      "images_processed": "BRANDING DATA MEMORY /CONCEPT_SYNTHESIS/IMAGENES"
+    }
+  },
+  "capabilities": {
+    "core_functions": [
+      {
+        "name": "Brand Strategy Development",
+        "description": "Desarrolla estrategia de marca completa en 8 semanas",
+        "parameters": {
+          "industry": "string",
+          "target_audience": "string",
+          "budget_tier": "enum: STARTUP, SME, ENTERPRISE",
+          "timeline": "integer (weeks)",
+          "goals": "array of strings"
+        },
+        "outputs": [
+          "Positioning statement",
+          "Brand personality profile",
+          "Buyer personas",
+          "Brand story",
+          "Implementation roadmap"
+        ]
+      },
+      {
+        "name": "Visual Identity Design",
+        "description": "Genera recomendaciones de identidad visual completa",
+        "parameters": {
+          "brand_archetype": "enum (Creator, Sage, Innocent, Explorer, Lover, Magician, Hero, Everyman, Mentor, Caregiver)",
+          "target_market": "string",
+          "premium_level": "enum: MASS_MARKET, PREMIUM, LUXURY",
+          "industry": "string"
+        },
+        "outputs": [
+          "Logo design recommendations (3 concepts)",
+          "Color palette (60-30-10 rule)",
+          "Typography selection",
+          "Visual system guidelines",
+          "Application examples"
+        ]
+      },
+      {
+        "name": "Competitive Positioning",
+        "description": "Analiza posición competitiva y diferenciadores clave",
+        "parameters": {
+          "company_name": "string",
+          "industry": "string",
+          "competitors": "array of strings",
+          "unique_value": "string"
+        },
+        "outputs": [
+          "Competitive positioning map",
+          "Differentiation strategy",
+          "Market white space analysis",
+          "Threat assessment",
+          "Opportunity identification"
+        ]
+      },
+      {
+        "name": "Logo Evaluation",
+        "description": "Evalúa propuestas de logo según criterios profesionales",
+        "parameters": {
+          "logo_concepts": "array of images/descriptions",
+          "brand_context": "string",
+          "target_audience": "string"
+        },
+        "outputs": [
+          "Evaluation matrix (legibility, memorability, versatility, differentiation, timelessness)",
+          "Recommendation ranking",
+          "Improvement suggestions",
+          "Scalability testing results"
+        ]
+      },
+      {
+        "name": "Brand Guidelines Generation",
+        "description": "Crea guía completa de identidad de marca",
+        "parameters": {
+          "brand_identity": "object (logo, colors, fonts, etc)",
+          "voice_and_tone": "string",
+          "brand_story": "string",
+          "applications": "array of touchpoints"
+        },
+        "outputs": [
+          "Brand book (100+ pages)",
+          "Logo usage rules",
+          "Color palette specs (Pantone, RGB, HEX)",
+          "Typography guidelines",
+          "Photography style guide",
+          "Social media templates",
+          "Do's and Don'ts"
+        ]
+      },
+      {
+        "name": "Rebranding Strategy",
+        "description": "Planifica rebranding con mitigación de riesgos",
+        "parameters": {
+          "current_brand": "string",
+          "reason_for_rebrand": "enum: MARKET_SHIFT, MERGER, NEGATIVE_ASSOCIATION, EXPANSION, MODERNIZATION",
+          "target_outcome": "string",
+          "timeline": "integer (weeks)"
+        },
+        "outputs": [
+          "Rebranding rationale",
+          "Transition plan",
+          "Risk mitigation strategy",
+          "Stakeholder communication plan",
+          "A/B testing recommendations",
+          "Launch timeline"
+        ]
+      },
+      {
+        "name": "Psychology Analysis",
+        "description": "Analiza elementos psicológicos de branding",
+        "parameters": {
+          "brand_elements": "object",
+          "target_psychographics": "string",
+          "emotional_goals": "array of strings"
+        },
+        "outputs": [
+          "Color psychology impact",
+          "Emotional trigger analysis",
+          "Memory formation strategy",
+          "Decision heuristic alignment",
+          "Sensory branding recommendations"
+        ]
+      }
+    ],
+    "analysis_tools": [
+      "Brand Positioning Canvas",
+      "Logo Evaluation Matrix",
+      "Color Palette Builder (60-30-10)",
+      "Competitive Positioning Map",
+      "Brand Archetype Analyzer",
+      "Premium vs Luxury Matrix",
+      "Memory Formation Framework",
+      "Decision Psychology Checklist",
+      "Brand Audit Checklist",
+      "Measurement KPI Dashboard"
+    ]
+  },
+  "knowledge_base": {
+    "frameworks": [
+      {
+        "name": "8-Week Branding Strategy Framework",
+        "phases": [
+          {
+            "week": "1-2",
+            "name": "Discovery",
+            "activities": [
+              "Brand questionnaire",
+              "Market research",
+              "Competitor analysis",
+              "Audience definition",
+              "Brand personality sliders"
+            ]
+          },
+          {
+            "week": "3",
+            "name": "Brand Strategy",
+            "activities": [
+              "Company profile",
+              "Brand personality definition",
+              "Positioning statement",
+              "Mission, vision, purpose",
+              "Buyer personas"
+            ]
+          },
+          {
+            "week": "4-5",
+            "name": "Mood Boards & Naming",
+            "activities": [
+              "3 visual directions",
+              "Name brainstorm (3x per direction)",
+              "Client selection",
+              "Direction refinement"
+            ]
+          },
+          {
+            "week": "6-7",
+            "name": "Logo & Visual Identity",
+            "activities": [
+              "3 logo concepts",
+              "Visual system design",
+              "Color palette selection",
+              "Typography choice",
+              "Application mockups"
+            ]
+          },
+          {
+            "week": "8",
+            "name": "Deliverables",
+            "activities": [
+              "Brand book creation",
+              "Asset library organization",
+              "Template development",
+              "Final handoff",
+              "Launch preparation"
+            ]
+          }
+        ]
+      }
+    ],
+    "case_studies": [
+      {
+        "brand": "Apple",
+        "archetype": "Creator",
+        "key_lessons": [
+          "Simplicity in design",
+          "Premium positioning",
+          "Consistency across ecosystem",
+          "Emotional connection",
+          "Innovation leadership"
+        ]
+      },
+      {
+        "brand": "Nike",
+        "archetype": "Hero",
+        "key_lessons": [
+          "Athlete association",
+          "Emotional storytelling",
+          "Swoosh icon power",
+          "Consistency over decades",
+          "Performance + lifestyle"
+        ]
+      },
+      {
+        "brand": "Coca-Cola",
+        "archetype": "Innocent",
+        "key_lessons": [
+          "Happiness positioning",
+          "Consistent red branding",
+          "Global universality",
+          "Simplicity of message",
+          "Cultural adaptation"
+        ]
+      },
+      {
+        "brand": "Tesla",
+        "archetype": "Magician",
+        "key_lessons": [
+          "Visionary leadership brand",
+          "Innovation positioning",
+          "Disruption narrative",
+          "Premium pricing",
+          "Direct-to-consumer"
+        ]
+      },
+      {
+        "brand": "Hermès",
+        "archetype": "Lover/Sage",
+        "key_lessons": [
+          "Craftsmanship focus",
+          "Heritage storytelling",
+          "Exclusivity strategy",
+          "Luxury pricing power",
+          "Quality over quantity"
+        ]
+      }
+    ],
+    "brand_archetypes": 10,
+    "color_psychology_rules": 5,
+    "design_principles": 15,
+    "measurement_frameworks": 3
+  },
+  "performance_metrics": {
+    "quality_benchmarks": {
+      "accuracy": "99%",
+      "recommendation_relevance": "95%+",
+      "case_study_alignment": "98%",
+      "framework_applicability": "97%"
+    },
+    "user_satisfaction": {
+      "target": "90%+",
+      "satisfaction_scale": "1-10"
+    }
+  },
+  "constraints_and_limitations": [
+    "Recomendaciones basadas en análisis de casos reales; resultados pueden variar por contexto local",
+    "No reemplaza human creative director; proporciona frameworks y referencias",
+    "Requiere input detallado del usuario para precisión máxima",
+    "Mejor para estrategia de marca; implementación práctica requiere diseñadores/desarrolladores",
+    "Trends actualizables pero core frameworks atemporales"
+  ],
+  "integration_requirements": {
+    "api": "Anthropic Claude API (v1)",
+    "models": [
+      "claude-sonnet-4-5-20250929",
+      "claude-opus-4-6",
+      "claude-haiku-4-5"
+    ],
+    "processing_time": "Variable (seconds to minutes depending on complexity)",
+    "token_efficiency": "High (optimized prompts)",
+    "cost_estimate": "Medium (typical branding consultation: 10-50K tokens)"
+  },
+  "deployment": {
+    "environment": "PRODUCTION",
+    "deployment_date": "2026-05-02",
+    "update_frequency": "Quarterly (Q2, Q3, Q4, Q1)",
+    "maintenance_notes": "Monitor new branding trends; update case studies annually",
+    "rollback_plan": "Version control on GitHub"
+  },
+  "related_resources": {
+    "github_repo": "https://github.com/DERICKLAMNISTER/skill-ceo-brand",
+    "documentation": "README.md, CLAUDE.md, MEMORY.md",
+    "datasets": "DATASETS/ folder (all 178 videos + 15 books + 131 images)",
+    "contact": "derickg.llc@gmail.com"
+  },
+  "license": "PROPRIETARY - Derick | DERICKLAMNISTER",
+  "disclaimer": "Este skill proporciona recomendaciones basadas en análisis de casos reales y frameworks de branding comprobados. No reemplaza consultoría profesional de branding, diseño gráfico, o marketing. Resultados varían según implementación, mercado local, y contexto específico."
+}

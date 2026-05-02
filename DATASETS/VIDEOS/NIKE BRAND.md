@@ -1,0 +1,9 @@
+# NIKE BRAND
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadFG72rCoScWqSv3RJgu'}]
+
+---
+**Transcripción:**
+This logo is not the reason why Nike is worth billions. In fact, logos don't build brands, neither do taglines. Great brands are built with story, purpose, action. Every great brand starts with a story, take Nike. Two founders, Bill Bowerman, a track coach, and Phil Knight, one of his runners. Bowerman was obsessed with helping athletes perform better. So obsessed, he wants poor rubber into a waffle iron to invent better grip for running shoes. Both Bowerman and Knight believe sports could transform lives. Bowerman said, if you have a body, you're an athlete. That story led to a clear purpose. We exist to inspire everybody to be an athlete. That single belief unlocked everything, who they serve, why people care, how they show up. Purpose now gives the brand direction and this direction manifests in the logo, the Nike swoosh, symbolizing the wings of Nike, the Greek goddess of victory, movement, speed, momentum. It wasn't the logo that created the meaning. It was the story that inspired the purpose, which gave it meaning. Now comes the action in their products, accessible sports equipment that helps everybody move. In their distribution, stores that inspire everybody to move. In their innovation, tools that inspire everybody to move. In their communication, ads that inspire everybody to move. And that's where the tagline earns its power. Just do it. A call to action rooted in belief. Everything you see on the surface is simply the execution of the story and purpose underneath it. Story, purpose, action. That's how great brands are made. Follow for more premium branding advice.

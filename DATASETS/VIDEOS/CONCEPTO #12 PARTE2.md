@@ -1,0 +1,9 @@
+# CONCEPTO #12 PARTE2
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadF7TqzRyoDenLvmoQ5d'}]
+
+---
+**Transcripción:**
+Here are 7 types of logos and how to use them. First, you have the pictorial marks. These are image-based logos, and they rely on a single image to represent the brand. Next are the letter marks, aka monograms. This is when initials become the identity. It's perfect when your name is long and you need instant recall. Then comes the word marks, also called logo types. There are no symbols here. It's just typography doing all the heavy lifting. If your name is strong, your font becomes your brand. Then comes the combination marks. This is the most common type of logo. It's the text and symbol working together. It gives you flexibility. Use both now or drop the text later. Next are the emblems. This is text enclosed in a symbol like a badge or a crest. These are perfect for law enforcement agencies, as well as any organization that needs to signal heritage and trust. Number 6 are abstract marks. These are symbols that doesn't have a literal meaning, but you create the meaning over time. And finally, mascots. These are characters that represent the brand. These are great for building personality and emotional connection. Now logos don't live alone. They live inside a system. With FedEx, you have the branded house, one brand, multiple services. With Apple, you have the sub brands, one brand, many products. With Marriott, you have the endorsed brands, multiple brands backed by the main brand. With Procter & Gamble, you have the house of brands. Many brands all independent. For Titanark, we built an entire system of sub brands, one system, multiple expressions, all aligned. Now if you want to build a brand that actually commands attention, that's what we do at Raven. Follow for more premium branding advice.

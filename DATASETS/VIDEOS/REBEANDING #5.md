@@ -1,0 +1,9 @@
+# REBEANDING #5
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadFoonf5AZsTQpXGR4e9'}]
+
+---
+**Transcripción:**
+So watch me transform this hot sauce from this to this. Here's my design process, and how I turn three flavors into three bold characters for this packaging. So if you don't know this about me, I have a thing for hot sauce. One of my favorites is Mojo Peppa Sauce, made here in Canada. They have this flavor called Earthe. I love putting it on popcorn, it packs quite the punch. But I feel like the packaging could use an upgrade. It says Mojo on the front and on the other side is the actual flavor, but it's pretty tiny and hard to read. The name Mojo literally means magic and charm, so I'm going to take their logo and turn it into a medieval looking banner. Then I'm going to turn each flavor into a magical looking character. For Earthe, it's got extracts of white truffle and shiitake mushrooms. So I created the truffle king. A mystical forced ruler with crowns made of mushrooms, roots growing through his beard and he's holding a truffle, badass, like Zeus of mushrooms. Here's the final illustration. I used an earthy orange color since that's the color of the sauce. From the typeface, I'm going to use the font furlist. Add an arch and a flourish on the r, flavor notes front and center, and boom. Now Mojo Peppa Sauce looks as bold as it tastes. For Verde, it's got extracts of tomatillo and jalapeno. So I created the jalapeno trickster, like a mischievous jungle spirit made of jalapeno peppers. Apply to the bottle. And for eclipse, it's got chocolate habanero and espresso. To I created the eclipse saucer, a mystical figure summoning flaming coffee beans. And now apply to the bottle. When hot sauce has bold flavors like this, it deserves bold packaging to match. Follow for more premium branding advice.

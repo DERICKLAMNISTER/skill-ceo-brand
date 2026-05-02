@@ -1,0 +1,9 @@
+# SaveClip.App_AQNtumPcC02koVBVhw7qHDCW4-rpQlo6COy1ckL3eNXDu1zO6jJpG9n1eiNkdKNdkdWSa0GTvICqmCZ__OzCK-AmrnnmbPPWdoONEJE
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadDJGjaWSJyFgT6Gi7gH'}]
+
+---
+**Transcripción:**
+How to brand a fast-feared chain. Today I'm going to talk about Smokes Puttinary. A brand I had the pleasure of working with 20 years ago that became a cult phenomenon. Ryan Smokin, the founder, came to me saying, I have a logo, I need your help to build a brand. His product, Putin, French fries, G-Scolds, gravy, a classic Canadian dish that you add all kinds of toppings to and it's a perfect for soaking up 2am regrets after a night out. So the first thing we needed to figure out was who is this character and what's a story. Meet Smoke, an eccentric fictional founder who is stuck in the 1980s and who invented wild gastronomical Putin creations. Think Colonel Sanders, but if he was obsessed with glam rock, Walkman, Knight Rider and Wrestling. We told his story everywhere. Murals exploding with red plaid and 80s pop culture memorabilia. 80s rock atoms filling every location, plaid packaging you could have missed, and truck wraps that stopped traffic. They weren't just telling food, they were selling an experience that brought back 80s nostalgia and built a cult like following of loyal fans. From hosting Putin eating championships to promotional campaigns, franchise opportunities, they grew from one store in Toronto to 43 across Canada. And if you ever visit one of those stores, look closely at the murals. You might still find my doodles and my signature on one of the bikes Smokes is riding. Rest in peace Ryan Smokin, you built a brand that was delicious, iconic and unforgettable. Follow for more premium branding advice.

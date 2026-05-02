@@ -1,0 +1,9 @@
+# SICIAL MEDIABRAND
+
+---
+
+[Error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CadCcWesRTGKQ9pbWPF8i'}]
+
+---
+**Transcripción:**
+how to make your social media content go viral. This video is one of my most watched reels. Your logo is not your brand, and I'm gonna prove it to you. It got 4.3 million views, 172,000 likes, 985 comments, 92,000 shares, and 79,000 bookmarks. And that's because it hit on all three pillars. It provides value, it entertains, and it vokes in emotion. Now, you might think this video went viral because it got so many likes. But actually, this is the key factor. The number of people who shared it. Think smart brands create love. S is for shares. The highest score that the social media algorithm gives to judge your content's viral potential. People don't share good content, they share content that makes them look good. B is for bookmarks. Your content was so good, they have to save it, so they can refer to it again and again. C is for comments, means you sparked a reaction. Whether good or bad. And L is for likes. Nice, but it's the lowest score when it comes to viral potential. This is the order in which social media judges your content. All great videos do one of three things to go viral. They give value, entertain, or evoke emotion. Value is what your audience learned. Entertainment is what keeps them watching, right to the where we end. And emotion is what makes them want to share it. You want 10,000 views, you do one. You want 100,000 views, you combine two. You want a million views, you figure out a way to do all three. Remember, smart brands create love. SPCL. Next time you create content, ask yourself, why would they care, why would they share? Follow for more premium branding advice.
