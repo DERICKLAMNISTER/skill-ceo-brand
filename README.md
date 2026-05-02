@@ -1,25 +1,21 @@
 # SKILL-CEO-BRAND v1.0
 
-**Agente IA Experto en Branding** | Producción
+## Dataset
+- **Videos:** 180
+- **Libros:** 15
+- **Imágenes:** 131
+- **TOTAL:** 326 items
 
-## 📊 Dataset
-| Categoría | Items |
-|-----------|-------|
-| Videos analizados | 180 |
-| Libros sintetizados | 14 |
-| Imágenes procesadas | 131 |
-| **TOTAL** | **325** |
-
-## 🏗️ Estructura
+## Estructura
 ```
 skill-ceo-brand/
 ├── CLAUDE.md
 ├── MEMORY.md
 ├── skill.json
 └── DATASETS/
-    ├── VIDEOS/      (180 archivos)
-    ├── LIBROS/      (14 archivos)
-    └── IMAGENES/    (131 archivos)
+    ├── VIDEOS/
+    ├── LIBROS/
+    └── IMAGENES/
 ```
 
-**Author:** Derick (DERICKLAMNISTER) | derickg.llc@gmail.com
+**Author:** Derick (DERICKLAMNISTER)
